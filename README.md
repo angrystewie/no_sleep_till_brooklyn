@@ -12,8 +12,7 @@
 | comments_classification |                                        Классификация комментариев, определение токсичных комментариев на размеченных данных                                         | NLP, pandas, sklearn, tf-idf, SpaCy, PyTorch, transformers, BERT, catboost     |
 | customer_churn_forecasting |                                                    Прогнозирование оттока клиентов банка | pandas, numpy, seaborn, matplotlib, sklearn, CatBoost|
 | customer_churn_forecasting_2 |                                                  Прогнозирование оттока клиентов оператора связи | pandas, numpy, seaborn, matplotlib, sklearn, CatBoost |
-| 
-data_encryption | Шифрование персональных данных клиентов | pandas, numpy, sklearn, линейная алгебра |
+| data_encryption |                                                  Шифрование персональных данных клиентов                                         | pandas, numpy, sklearn, линейная алгебра |
 | gold_recovery_prediction |                                                     Прогнозирование восстановления золота из золотоносной руды                                                      | EDA, pandas, seaborn, matplotlib, sklearn                                                          |
 | prospective_tariff_determination | Определение перспективного тарифа исходя из поведения пользователя. Анализ разницы в прибыли между регионами и абонетами разных тарифов. Оценка достаточности услуг | EDA, проверка статистических гипотез, pandas, numpy, matplotlib, ScyPy         |
 | realty_ads_research |                                                         Исследование объявлений о продаже квартир | EDA, pandas, matplotlib|
